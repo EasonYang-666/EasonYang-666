@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Eason👋 
 
-<!--
-**EasonYang-666/EasonYang-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![UNSW](https://img.shields.io/badge/UNSW-MIT%20(AI%20Stream)-0055A5?style=flat&logo=education)](https://www.unsw.edu.au/)
+[![GitHub PRs](https://img.shields.io/badge/Open%20Source-DocsGPT%20Contributor-brightgreen?style=flat&logo=github)](https://github.com/arc53/DocsGPT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](#)
 
-Here are some ideas to get you started:
+🎓 **Master of IT (AI Stream)** student at the **University of New South Wales (UNSW)**.  
+💻 Passionate about **Software Engineering, Computer Vision, Multi-Objective RL, and Web Systems**.  
+🚀 Active Open Source Contributor in AI & Agent ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**AI & Machine Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & DevOps**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🌟 Open Source & Highlights
+
+- 🤖 **[DocsGPT](https://github.com/arc53/DocsGPT)** (18k+ ⭐)
+  - Contributed defensive payload validation for TTS & API endpoints to enhance fault tolerance. ([PR #2629](https://github.com/arc53/DocsGPT/pull/2629))
+- 🌾 **Robust Image Segmentation System**
+  - Plant mask segmentation using Otsu + Gabor filters + Random Forest under noisy environments.
+- 🎯 **Multi-Objective Reinforcement Learning (MORL)**
+  - Active querying Q-learning agent with Bradley-Terry preference modeling.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EasonYang-666&show_icons=true&theme=radial" alt="Eason's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EasonYang-666&layout=compact&theme=radial" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- **Email:** Dongyi.Yang114@gmail.com
+- **Location:** Sydney, Australia / Guangdong, China
