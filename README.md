@@ -31,26 +31,6 @@
 
 ---
 
-### 🌟 Open Source & Highlights
-
-- 🤖 **[DocsGPT](https://github.com/arc53/DocsGPT)** (18k+ ⭐)
-  - Contributed defensive payload validation for TTS & API endpoints to enhance fault tolerance. ([PR #2629](https://github.com/arc53/DocsGPT/pull/2629))
-- 🌾 **Robust Image Segmentation System**
-  - Plant mask segmentation using Otsu + Gabor filters + Random Forest under noisy environments.
-- 🎯 **Multi-Objective Reinforcement Learning (MORL)**
-  - Active querying Q-learning agent with Bradley-Terry preference modeling.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EasonYang-666&show_icons=true&theme=radial" alt="Eason's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EasonYang-666&layout=compact&theme=radial" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 - **Email:** Dongyi.Yang114@gmail.com
-- **Location:** Sydney, Australia / Guangdong, China
+- **Location:** Sydney, Australia
