@@ -1,7 +1,6 @@
 # Hi there, I'm Eason👋 
 
 [![UNSW](https://img.shields.io/badge/UNSW-MIT%20(AI%20Stream)-0055A5?style=flat&logo=education)](https://www.unsw.edu.au/)
-[![GitHub PRs](https://img.shields.io/badge/Open%20Source-DocsGPT%20Contributor-brightgreen?style=flat&logo=github)](https://github.com/arc53/DocsGPT)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](#)
 
 🎓 **Master of IT (AI Stream)** student at the **University of New South Wales (UNSW)**.  
